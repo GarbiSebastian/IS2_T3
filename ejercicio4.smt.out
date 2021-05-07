@@ -1,0 +1,9 @@
+sat
+(
+  (define-fun b () Int
+    3)
+  (define-fun a () Int
+    2)
+  (define-fun c () Int
+    4)
+)

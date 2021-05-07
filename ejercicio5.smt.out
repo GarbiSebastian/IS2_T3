@@ -1,0 +1,5 @@
+sat
+(
+  (define-fun k () Real
+    (- 3.0))
+)

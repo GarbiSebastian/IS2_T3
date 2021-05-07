@@ -1,0 +1,7 @@
+sat
+(
+  (define-fun y () Int
+    0)
+  (define-fun x () Int
+    12)
+)
